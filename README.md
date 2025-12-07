@@ -2,7 +2,7 @@
 
 # João Mafra - #OpenToWork
 <p align="left"> 
-  Me chamo João Carlos Mafra, curso ciencias da computação na cesar school e estou desenvolvendo minhas habilidades na area.
+  Me chamo João Carlos Mafra, curso ciencias da computação na cesar school e estou desenvolvendo minhas habilidades na area. Minha stack atual envolve Python e Solucoes em Arduino IDE.  
 
 </p>
 
