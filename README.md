@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python/C++
+  🦄 Linguagens: Python/C++/c/html/css/javascript
 </p>
 
 <p align="left">
