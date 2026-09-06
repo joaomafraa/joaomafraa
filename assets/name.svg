@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="76" viewBox="0 0 440 76" role="img" aria-label="Joao Mafra, @joaomafraa">
-<style>@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes cursor{50%{opacity:0}}.signal{animation:pulse 3s ease-in-out infinite}.cursor{animation:cursor 1.4s steps(1) infinite}@media(prefers-reduced-motion:reduce){.signal,.cursor{animation:none}}</style>
+
 <rect x="1" y="1" width="438" height="74" rx="14" fill="#080F0D" stroke="#1D4335"/>
 <path d="M22 27L32 37L22 47" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="48" y="34" fill="#E0EEE7" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="600">Jo&#227;o Mafra</text>
 <text x="48" y="55" fill="#34D399" font-family="Consolas,monospace" font-size="12" letter-spacing="1">@joaomafraa</text>
-<rect x="151" y="45" width="7" height="12" rx="1" fill="#34D399" class="cursor"/>
-<circle cx="407" cy="38" r="4" fill="#34D399" class="signal"/>
+<rect x="151" y="45" width="7" height="12" rx="1" fill="#34D399" class="cursor"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1.4s" repeatCount="indefinite"/></rect>
+<circle cx="407" cy="38" r="4" fill="#34D399" class="signal"><animate attributeName="opacity" values="0.45;1;0.45" dur="3s" repeatCount="indefinite"/></circle>
 <path d="M240 38H383" stroke="#1D4335" stroke-width="1"/>
 </svg>

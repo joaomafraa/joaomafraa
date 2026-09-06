@@ -8,7 +8,7 @@
 
 <p align="center">
   Computer Science student at <strong>CESAR School</strong>.<br>
-  Developing my programming skills and building with Python and Arduino.<br>
+  Building projects across different programming languages and exploring new technologies.<br>
   <strong>Open to work and new opportunities.</strong>
 </p>
 
@@ -19,7 +19,7 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img src="assets/languages-spin.svg" alt="Java, Python, C, C++, CSS and JavaScript">
+  <img src="assets/languages-motion.svg" alt="Java, Python, C, C++, CSS and JavaScript">
 </p>
 
 <p align="center">Java · Python · C · C++ · CSS · JavaScript</p>
@@ -27,12 +27,14 @@
 <h2 align="center">Tools &amp; Environment</h2>
 
 <p align="center">
-  <img src="assets/tools-spin.svg" alt="Linux, Git, GitHub, VS Code and Arduino IDE">
+  <img src="assets/tools-motion.svg" alt="Linux, Git, GitHub, VS Code and Arduino IDE">
 </p>
 
 <p align="center">Linux &middot; Git · GitHub · VS Code · Arduino IDE</p>
 
-<h2 align="center">Commit Stats</h2>
+<h2 align="center">
+  <img src="assets/stats-heading.svg" width="440" alt="Commit Stats">
+</h2>
 
 <p align="center">
   <a href="https://github.com/joaomafraa?tab=repositories">
@@ -42,6 +44,8 @@
     <img src="https://streak-stats.demolab.com?user=joaomafraa&amp;background=080F0D&amp;border=1D4335&amp;ring=10B981&amp;fire=34D399&amp;currStreakNum=B8CEC1&amp;sideNums=B8CEC1&amp;currStreakLabel=34D399&amp;sideLabels=34D399&amp;dates=87A795" width="410" alt="Total contributions, current contribution streak and longest streak">
   </a>
 </p>
+
+<p align="center"><sub>Commits cover the last year. Contributions also include activity such as pull requests and issues; streaks count consecutive active days.</sub></p>
 
 <h2 align="center">Let's connect</h2>
 

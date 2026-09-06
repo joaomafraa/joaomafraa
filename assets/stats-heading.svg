@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="70" viewBox="0 0 440 70" role="img" aria-label="Commit Stats">
+<rect x="1" y="1" width="438" height="68" rx="12" fill="#080F0D" stroke="#1D4335"/>
+<g class="heading">
+<animate attributeName="opacity" values="0.55;1;1;0.55" keyTimes="0;0.12;0.9;1" dur="10s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 4;0 0;0 0;0 4" keyTimes="0;0.12;0.9;1" dur="10s" repeatCount="indefinite"/>
+<text x="220" y="33" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="1" fill="#34D399">Commit Stats</text>
+</g>
+<path d="M110 49H330" stroke="#1D4335" stroke-linecap="round"/>
+<rect class="accent" x="110" y="47.5" width="28" height="3" rx="1.5" fill="#34D399">
+<animate attributeName="x" values="110;302;110" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</rect>
+</svg>
