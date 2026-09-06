@@ -1,30 +1,58 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-# João Mafra - #OpenToWork
-<p align="left"> 
-  Me chamo João Carlos Mafra, curso ciencias da computação na cesar school e estou desenvolvendo minhas habilidades na area. Minha stack atual envolve Python e Solucoes em Arduino IDE.  
-
+<p align="center">
+  <img src="assets/universe-wave.svg" width="100%" alt="Animated universe banner with a gently waving edge">
 </p>
 
-<p align="left">
-  🦄 Linguagens: Python/C++/C/Css/Javascript
+<p align="center">
+  <img src="assets/name.svg" width="440" alt="João Mafra | @joaomafraa">
 </p>
 
-<p align="left">
-  💼 Ferramentas: Git e GitHub · VS Code · Arduino IDE 
+<p align="center">
+  Computer Science student at <strong>CESAR School</strong>.<br>
+  Developing my programming skills and building with Python and Arduino.<br>
+  <strong>Open to work and new opportunities.</strong>
 </p>
 
-### 💌 Entre em contato comigo
-<p align="left">
-  <a href="mailto:jcmsn@cesar.school" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=50&amp;lines=Java+%E2%80%A2+C+%E2%80%A2+C%2B%2B;Python+%E2%80%A2+JavaScript+%E2%80%A2+CSS;Linux+%E2%80%A2+Git+%E2%80%A2+Arduino" width="460" alt="Java • C • C++ / Python • JavaScript • CSS">
+</p>
+
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <img src="assets/languages-spin.svg" alt="Java, Python, C, C++, CSS and JavaScript">
+</p>
+
+<p align="center">Java · Python · C · C++ · CSS · JavaScript</p>
+
+<h2 align="center">Tools &amp; Environment</h2>
+
+<p align="center">
+  <img src="assets/tools-spin.svg" alt="Linux, Git, GitHub, VS Code and Arduino IDE">
+</p>
+
+<p align="center">Linux &middot; Git · GitHub · VS Code · Arduino IDE</p>
+
+<h2 align="center">Commit Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/joaomafraa?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api?username=joaomafraa&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=080F0D&amp;title_color=34D399&amp;text_color=B8CEC1&amp;icon_color=10B981&amp;border_color=1D4335" width="410" alt="GitHub statistics: commits over the last year, stars, pull requests, issues and repositories contributed to">
   </a>
-
-  <a href="https://www.linkedin.com/in/joaoc-mafra/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+  <a href="https://github.com/joaomafraa?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=joaomafraa&amp;background=080F0D&amp;border=1D4335&amp;ring=10B981&amp;fire=34D399&amp;currStreakNum=B8CEC1&amp;sideNums=B8CEC1&amp;currStreakLabel=34D399&amp;sideLabels=34D399&amp;dates=87A795" width="410" alt="Total contributions, current contribution streak and longest streak">
   </a>
+</p>
 
-  <a href="https://www.instagram.com/joaomaafra/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
+<h2 align="center">Let's connect</h2>
+
+<p align="center">
+  <a href="mailto:jcmsn@cesar.school">
+    <img src="https://img.shields.io/badge/Email-080F0D?style=for-the-badge&amp;logo=gmail&amp;logoColor=34D399" alt="Email João at jcmsn@cesar.school">
+  </a>
+  <a href="https://www.linkedin.com/in/joaoc-mafra/">
+    <img src="https://img.shields.io/badge/LinkedIn-080F0D?style=for-the-badge" alt="João Mafra on LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/joaomaafra/">
+    <img src="https://img.shields.io/badge/Instagram-080F0D?style=for-the-badge&amp;logo=instagram&amp;logoColor=34D399" alt="João Mafra on Instagram">
   </a>
 </p>
