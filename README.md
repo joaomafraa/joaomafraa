@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/universe-wave.svg" width="100%" alt="Animated universe banner with a gently waving edge">
+  <img src="assets/galaxy-seamless-banner.svg" width="100%" alt="Animated universe banner with a gently waving edge">
 </p>
 
 <p align="center">
