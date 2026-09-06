@@ -38,10 +38,10 @@
 
 <p align="center">
   <a href="https://github.com/joaomafraa?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api?username=joaomafraa&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=080F0D&amp;title_color=34D399&amp;text_color=B8CEC1&amp;icon_color=10B981&amp;border_color=1D4335" width="410" alt="GitHub statistics: commits over the last year, stars, pull requests, issues and repositories contributed to">
+    <img src="https://github-stats-extended.vercel.app/api?username=joaomafraa&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=080F0D&amp;title_color=34D399&amp;text_color=D8E5DE&amp;icon_color=34D399&amp;border_color=1D4335" width="410" alt="GitHub statistics: commits over the last year, stars, pull requests, issues and repositories contributed to">
   </a>
   <a href="https://github.com/joaomafraa?tab=overview">
-    <img src="https://streak-stats.demolab.com?user=joaomafraa&amp;background=080F0D&amp;border=1D4335&amp;ring=10B981&amp;fire=34D399&amp;currStreakNum=B8CEC1&amp;sideNums=B8CEC1&amp;currStreakLabel=34D399&amp;sideLabels=34D399&amp;dates=87A795" width="410" alt="Total contributions, current contribution streak and longest streak">
+    <img src="https://streak-stats.demolab.com?user=joaomafraa&amp;background=080F0D&amp;border=1D4335&amp;ring=34D399&amp;fire=34D399&amp;currStreakNum=D8E5DE&amp;sideNums=D8E5DE&amp;currStreakLabel=34D399&amp;sideLabels=8EB5A1&amp;dates=81998C" width="410" alt="Total contributions, current contribution streak and longest streak">
   </a>
 </p>
 
