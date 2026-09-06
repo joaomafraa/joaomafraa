@@ -45,8 +45,6 @@
   </a>
 </p>
 
-<p align="center"><sub>Commits cover the last year. Contributions also include activity such as pull requests and issues; streaks count consecutive active days.</sub></p>
-
 <h2 align="center">Let's connect</h2>
 
 <p align="center">
